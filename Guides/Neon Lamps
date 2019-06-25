@@ -1,0 +1,12 @@
+{
+        "name": "Neon Lamp Red",	
+        "template": {
+                "row": "0|Neon Lamps",
+                "column": "0|Neon Lamp Red"
+        },
+        "color_key": "#FF0000",
+        "electrical_type": "Neon Lamp",
+        "is_self_powered": false,
+        "luminiscence": 2.0,
+        "light_spread": 1.0
+    },
